@@ -1,2 +1,2 @@
-Please see "projects" subtab for more project information. 
-Associated files can be found in the "projects" subtab. 
+Select the link below to be taken to the projects associated files 
+https://github.com/users/aliwshamdan/projects/3
